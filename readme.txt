@@ -1,6 +1,6 @@
 bigSCAle
 The raw matlab codes for bigSCale are available here in Github.
-We will be shortly raleasing a multi-platform user friendly bigSCale version.
+We will be shortly releasing a multi-platform user-friendly bigSCale version.
 Stay tuned.
 
 Giovanni Iacono
