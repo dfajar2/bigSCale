@@ -1,7 +1,7 @@
-bigSCAle
-The raw matlab codes for bigSCale are available here in Github.
-We will be shortly releasing a multi-platform user-friendly bigSCale version.
-Stay tuned.
+bigSCAle tool
+Please have a lool to the youtube bigSCale tutorial 
+
+https://youtu.be/8hTHodjemIg
 
 Giovanni Iacono
 9 october 2017
