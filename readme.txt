@@ -1,5 +1,5 @@
 bigSCAle tool
-Please have a lool to the youtube bigSCale tutorial 
+Please have a look to the youtube bigSCale tutorial 
 
 https://youtu.be/8hTHodjemIg
 
